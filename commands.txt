@@ -1,0 +1,5 @@
+aws configure
+aws s3 mb s3://farisa-s3-demo-2026-12345 --region us-west-2
+aws s3 ls
+aws s3 cp "C:\Users\faris\OneDrive\Desktop\hello.txt" s3://farisa-s3-demo-2026-12345/
+aws s3 ls s3://farisa-s3-demo-2026-12345/

@@ -46,6 +46,11 @@ us-west-2
 ## 📄 Description
 This project demonstrates how to create an S3 bucket and upload a file using AWS CLI from a local system.  
 All operations are performed using command-line without using the AWS Management Console.
+The file (hello.txt) is uploaded from the local system to the S3 bucket.
+
+## ✅ Output
+- S3 bucket created successfully
+- File uploaded successfully to the bucket
 
 ## 💡 Key Points
 - S3 bucket names must be globally unique  

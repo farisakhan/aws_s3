@@ -1,5 +1,5 @@
 # aws_s3
-# AWS S3 CLI Assignment
+# creating s3 bucket and put objects in bucket through local pc using aws cli
 
 This project demonstrates how to create an S3 bucket and upload a file using AWS CLI.
 
